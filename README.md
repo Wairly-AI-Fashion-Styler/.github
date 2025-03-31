@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/1QeMNRq.png" alt="Wairly Logo" width="500"/>
-
 # 👔 **WAIRLY** 👗
 
 ### *Your AI-Powered Personal Fashion Stylist*
