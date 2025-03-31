@@ -257,8 +257,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <h3>⭐ Star us on GitHub — it helps!</h3>
 
-<img src="https://i.imgur.com/YqANYO8.png" alt="Wairly Mockup Devices" width="800px"/>
-
 </div>
 
 ---
