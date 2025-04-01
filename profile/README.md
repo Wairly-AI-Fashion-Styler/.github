@@ -6,8 +6,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-![GitHub stars](https://img.shields.io/github/stars/Wairly-AI-Fashion-Styler/Wairly?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Wairly-AI-Fashion-Styler/Wairly?style=for-the-badge)
 
 </div>
 
