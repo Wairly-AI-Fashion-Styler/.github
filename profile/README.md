@@ -217,16 +217,6 @@ We welcome contributions to Wairly! Please see our [Contribution Guidelines](CON
 - 💡 [Suggest features](https://github.com/Wairly-AI-Fashion-Styler/Wairly/issues)
 - 🔀 [Submit pull requests](https://github.com/Wairly-AI-Fashion-Styler/Wairly/pulls)
 
-<div align="center">
-
-### 👨‍💻 Contributors
-
-<a href="https://github.com/Wairly-AI-Fashion-Styler/Wairly/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Wairly-AI-Fashion-Styler/Wairly" />
-</a>
-
-</div>
-
 ---
 
 ## 📝 License
