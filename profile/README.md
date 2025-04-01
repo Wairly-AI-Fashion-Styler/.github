@@ -110,10 +110,6 @@ Wairly is a revolutionary fashion platform that uses artificial intelligence to 
 
 ## 🏛️ Architecture
 
-<div align="center">
-  <img src="https://i.imgur.com/YOURARCHITECTUREIMAGEHERE.png" alt="Wairly Architecture" width="850px"/>
-</div>
-
 Wairly follows a microservice-oriented architecture with four key components:
 
 1. **Frontend** - React/TypeScript application with Tailwind CSS and Framer Motion for a smooth user experience
